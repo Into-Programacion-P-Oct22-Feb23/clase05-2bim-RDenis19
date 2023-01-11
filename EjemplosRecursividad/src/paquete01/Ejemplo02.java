@@ -8,7 +8,7 @@ package paquete01;
 public class Ejemplo02 {
 
     public static void main(String[] args) {
-        int numero = 7;
+        int numero = 20;
         System.out.printf("Números del %d al 1\n", numero);
         imprimirNumeros(numero);
     }
